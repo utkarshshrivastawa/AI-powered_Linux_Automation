@@ -13,3 +13,9 @@
 
 ## 🚀 This project combines AI, automation, and Linux to simplify system tasks for both beginners and advanced users.
 
+## 🌐🌐 Output 
+![another output on linux](https://github.com/user-attachments/assets/6679dd01-4ec9-48f5-a3aa-804cbafba2cc)
+![output on linux](https://github.com/user-attachments/assets/6a6eb720-2775-4d39-a57f-cc47db634544)
+
+
+
